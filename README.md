@@ -1,2 +1,2 @@
 # Machine-Learning
-Learning machine from scratch .
+Learning machine learning from scratch .
